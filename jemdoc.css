@@ -117,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #28527a;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -157,10 +157,10 @@ pre {
 }
 
 div#footer {
-	font-size: small;
+	/* font-size: small; */
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
-	margin-top: 4.0em;
+	margin-top: 2.0em;
 	color: #c0c0c0;
 }
 
